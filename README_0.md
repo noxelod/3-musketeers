@@ -7,8 +7,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Introduction](#introduction)
-- [How to use](#How to use)
-- [Commands](#Commands)
+- [How to use](#how to use)
+- [Commands](#commands)
 - [Just tell me what to do](#just-tell-me-what-to-do)
   - [RDD and CDD](#rdd-and-cdd)
   - [TDD](#tdd)
