@@ -38,8 +38,6 @@
 ❯ node index.js
 ```
 
-![capture](https://github.com/noxelod/3-musketeers/blob/master/cash/img/cash_converter.png)
-
 ## Commands
 
 * Converter
@@ -64,7 +62,7 @@ To check the version of 3-musketeers :
 ```sh
 ❯ node index.js -v
 ```
-
+![capture](https://github.com/noxelod/3-musketeers/blob/master/cash/img/cash_converter.png)
 
 The library [cash](./cash) that we need to
 
