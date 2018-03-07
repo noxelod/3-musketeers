@@ -40,13 +40,24 @@
 
 ## Commands
 
-* converter
+* Converter
+
+You can convert into mutliple currencies, just add them in <CURRENCY_TO>.
 
 ```sh
 ❯ node index.js <AMOUNT> <CURRENCY_FROM> <CURRENCY_TO>
 ```
+* Save
+
+You can save the currency you use as usual, and the currencies your want to convert it.
+
+```sh
+❯ node index.js --save <CURRENCY_FROM> <CURRENCY_TO>
+```
 
 * Version
+
+To check the version of 3-musketeers :
 
 ```sh
 ❯ node index.js -v
