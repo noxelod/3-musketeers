@@ -9,9 +9,6 @@
 - [Introduction](#introduction)
 - [How to use](#how-to-use)
 - [Commands](#commands)
-- [Just tell me what to do](#just-tell-me-what-to-do)
-  - [RDD and CDD](#rdd-and-cdd)
-  - [TDD](#tdd)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
