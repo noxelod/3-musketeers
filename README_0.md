@@ -65,51 +65,6 @@ To check the version of 3-musketeers :
 ```
 ![capture](https://github.com/noxelod/3-musketeers/blob/master/cash/img/cash_converter.png)
 
-The library [cash](./cash) that we need to
-
-* write the README.md
-* write missing comments with JSDoc
-
-The library [bitcoin](./bitcoin) that we need to
-
-* write Unit Tests (with Jest as testing framework)
-
-## Just tell me what to do
-
-* Fork the project via `github`
-* Clone your forked repository project `https://github.com/YOUR_USERNAME/3-musketeers`
-
-```sh
-❯ cd /path/to/workspace
-❯ git clone git@github.com:YOUR_USERNAME/3-musketeers.git
-```
-
-### RDD and CDD
-
-* complete the [cash/README.md](./cash/README.md) file with a complete description of installation, usage... of the library
-* add JSDOC function blocks for the 3 files [cash/bin/cash.js](./cash/bin/cash.js), [cash/bin/helpers.js](./cash/bin/helpers.js) and [cash/bin/index.js](./cash/bin/index.js)
-
-### TDD
-
-Execute unit test with `npm run test` or `yarn run test`
-
-* write the unit tests [bitcoin/__tests__/convert.js](bitcoin/__tests__/convert.js) to cover 80%
-
-* commit your different modifications:
-
-```sh
-❯ cd /path/to/workspace/3-musketeers
-❯ git add -A && git commit -m "docs(readme): describe how to use cash"
-```
-
-([why following a commit message convention?](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits))
-
-1. Don't forget to push before the end of the workshop
-
-```sh
-❯ git push origin master
-```
-
 
 ## Licence
 
