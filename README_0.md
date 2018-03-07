@@ -38,7 +38,7 @@
 ❯ node index.js
 ```
 
-
+![capture](https://github.com/noxelod/3-musketeers/blob/master/cash/img/cash_converter.png)
 
 ## Commands
 
