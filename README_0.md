@@ -7,7 +7,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Introduction](#introduction)
-- [Objective - Workshop in 1 sentence](#objective---workshop-in-1-sentence)
+- [How to use](#How to use)
+- [Commands](#Commands)
 - [Just tell me what to do](#just-tell-me-what-to-do)
   - [RDD and CDD](#rdd-and-cdd)
   - [TDD](#tdd)
